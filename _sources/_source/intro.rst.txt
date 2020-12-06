@@ -9,3 +9,7 @@ test code test code test code test code test code
 
 
 参见：`moas-group <https://moas-group.github.io/>`_ 
+
+.. image:: _source/_static/images/2020-12-06-14-58-28.png
+   :width: 200px
+   :alt: QQ Group

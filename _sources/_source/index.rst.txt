@@ -17,7 +17,7 @@ MOAS数据迁移平台
 
 
 
-`MoasGroup. <https://moas-group.github.io/>`_ 
+
 
 Indices and tables
 ==================
