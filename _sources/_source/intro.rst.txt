@@ -2,10 +2,7 @@
 简介
 #############################
 
-test code 
-test code 
-test code test code test code test code test code 
-test code test code test code test code test code 
+MOAS: 统一易用的现代化的数据迁移平台
 
 
 参见：`moas-group <https://moas-group.github.io/>`_ 
